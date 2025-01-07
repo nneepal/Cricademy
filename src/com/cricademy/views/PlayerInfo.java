@@ -4,10 +4,11 @@
  */
 package com.cricademy.views;
 
+
+
 /**
  *
- * @author arpannepal
- * LmuId 23048647
+ * @author arpannepal LmuId 23048647
  */
 public class PlayerInfo extends javax.swing.JFrame {
 
@@ -17,6 +18,8 @@ public class PlayerInfo extends javax.swing.JFrame {
     public PlayerInfo() {
         initComponents();
     }
+    
+
 
     /**
      * This method is called from within the constructor to initialize the form.
